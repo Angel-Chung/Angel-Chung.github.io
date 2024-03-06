@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a second year PhD student in [Operations, Information, and Decisions at Wharton School](https://oid.wharton.upenn.edu), University of Pennsylvania (UPenn). I am very fortunate to be advised by [Prof. Hamsa Bastani](https://hamsabastani.github.io). 
+I am a second-year PhD student in [Operations, Information, and Decisions at Wharton School](https://oid.wharton.upenn.edu), University of Pennsylvania (UPenn). I am very fortunate to be advised by [Prof. Hamsa Bastani](https://hamsabastani.github.io). 
 
 My research focuses on developing and deploying data-driven machine learning (ML) algorithms and optimization for healthcare, education, and social good, particularly within marginalized contexts. 
 
