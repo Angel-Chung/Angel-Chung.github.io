@@ -24,4 +24,4 @@ I am a second-year PhD student in [Operations, Information, and Decisions at Wha
 
 My research focuses on developing and deploying data-driven machine learning (ML) algorithms and optimization for healthcare, education, and social good, particularly within marginalized contexts. 
 
-I also have strong interest in the development of equitable AI system and ML fairness. I am passionate about working with practitioners and policymakers to transform socially impactful research into practical real-world solutions.
+I also have strong interest in the development of fairness in ML and equitable AI system. I am passionate about working with practitioners and policymakers to transform socially impactful research into practical real-world solutions.
