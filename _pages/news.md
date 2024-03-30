@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Talk
+title: Talks/News
 permalink: /Talk/
 ---
 
