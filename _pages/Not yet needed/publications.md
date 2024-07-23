@@ -7,9 +7,10 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
 <div class="publications">
-
-{% bibliography %}
-
+  <h2>Papers</h2>
+  {% bibliography --query @article,@inproceedings,@techreport,@unpublished %}
+  <h2>Book Chapter</h2>
+  {% bibliography --query @inbook,@incollection %}
 </div>
+
