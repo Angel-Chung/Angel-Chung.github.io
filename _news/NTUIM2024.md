@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Invited talk at the Department of Information Management, National Taiwan University (NTU) @Taipei
+Department of Information Management, National Taiwan University (NTU) @Taipei

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-INFORMS Presenter at Data-Driven Decisions and Applications Session @Indianapolis
+INFORMS Data-Driven Decisions and Applications Session @Indianapolis

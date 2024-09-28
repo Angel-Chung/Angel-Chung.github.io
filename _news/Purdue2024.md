@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presenter at Purdue Operations Conference @Purdue University
+Purdue Operations Conference @Purdue University
