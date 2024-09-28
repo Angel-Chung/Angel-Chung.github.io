@@ -4,7 +4,7 @@ date: 2024-10-20
 inline: true
 ---
 
-Presenter at INFORMS Annual Meeting (Scheduled) @Seattle
+INFORMS Annual Meeting (Scheduled) @Seattle
 - Doing Good with Good OR Session
 - PSOR Best Paper Award Finalists Session
 - MSOM Student Paper Competition Finalists Session
