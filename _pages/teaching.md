@@ -54,3 +54,10 @@ nav_order: 7
   <li>TA & Lab Instructor in Fall 2020</li>
   <li>Received <a href="https://provost.upenn.edu/for-students/teaching-at-penn/teaching-awards/">2021 Penn Prize for Excellence in Graduate Teaching Award</a></li>
 </ul>
+
+#### Mentorship 
+
+<ul class="course-details">
+  <li>Mentor, 2024 Wharton DEI Program</li>
+  <li><a href="https://ldi.upenn.edu/education/penn-ldi-training-programs/sumr/"> Mentor, 2024 Summer Undergraduate Mentored Research Program (SUMR)</a></li>
+</ul>
