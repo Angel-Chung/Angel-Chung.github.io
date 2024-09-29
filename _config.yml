@@ -198,11 +198,6 @@ kramdown:
       line_numbers: false
       start_line: 1
 
-gems:
-  - jekyll-scholar
-scholar:
-  style: apa
-  locale: en
 
 # Includes & excludes
 include: ["_pages"]
