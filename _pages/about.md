@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a third-year PhD student in [Operations, Information, and Decisions at Wharton School](https://oid.wharton.upenn.edu), University of Pennsylvania (UPenn). I am very fortunate to be advised by [Prof. Hamsa Bastani](https://hamsabastani.github.io). 
 
-My research is centered on developing and deploying machine learning (ML) algorithms and optimization for data-driven decision-making, particularly in the fields of healthcare, education, and social good initiatives. I have a strong interest in the development of fairness in ML and responsible AI system, with much of my work dedicated to underserved communities or marginalized contexts.
+My research is centered on developing and deploying machine learning (ML) algorithms and optimization for data-driven decision-making, particularly in the fields of healthcare, education, and social good initiatives. 
 
 My ongoing works focus on the use of large language models (LLMs) and reinforcement learning for education and global health, partnering with schools, hospitals, and governments across the globe. I am passionate about working with practitioners and policymakers to transform socially impactful research into real-world solutions. 
 

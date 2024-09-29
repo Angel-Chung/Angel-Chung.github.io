@@ -9,7 +9,10 @@ nav_order: 7
 
 <style>
   .course-title {
-    margin-bottom: 0.2em;
+    margin-bottom: 0.2em;  /* Reduced from default */
+  }
+  .course-title a {
+    color: black;
     text-decoration: underline;
   }
   .course-details {
@@ -24,31 +27,31 @@ nav_order: 7
 
 #### University of Pennsylvania
 
-<p class="course-title"><a href="https://oid.wharton.upenn.edu/programs/undergraduate/course-descriptions/"><strong>OIDD (undergrad) Introduction To OID</strong></a></p>
+<p class="course-title"><a href="https://oid.wharton.upenn.edu/programs/undergraduate/course-descriptions/">OIDD (undergrad) Introduction To OID</a></p>
 <ul class="course-details">
   <li>Professor: Gérard Cachon & Alp Sungu</li>
   <li>TA in Fall 2024</li>
 </ul>
 
-<p class="course-title"><a href="https://oid.wharton.upenn.edu/programs/undergraduate/course-descriptions/"><strong>OIDD (undergrad) Intro To Management Science</strong></a></p>
+<p class="course-title"><a href="https://oid.wharton.upenn.edu/programs/undergraduate/course-descriptions/">OIDD (undergrad) Intro To Management Science</a></p>
 <ul class="course-details">
   <li>Professor: Hamsa Bastani</li>
   <li>TA in Spring 2024</li>
 </ul>
 
-<p class="course-title"><a href="https://catalog.upenn.edu/courses/educ/"><strong>EDUC (grad-level) Economics of Education in Developing Countries</strong></a></p>
+<p class="course-title"><a href="https://catalog.upenn.edu/courses/educ/">EDUC (grad-level) Economics of Education in Developing Countries</a></p>
 <ul class="course-details">
   <li>Professor: Amrit Thapa</li>
   <li>TA in Spring 2021</li>
 </ul>
 
-<p class="course-title"><a href="https://catalog.upenn.edu/courses/educ/"><strong>EDUC (grad-level) Advanced Topics in Monitoring & Evaluation in IED</strong></a></p>
+<p class="course-title"><a href="https://catalog.upenn.edu/courses/educ/">EDUC (grad-level) Advanced Topics in Monitoring & Evaluation in IED</a></p>
 <ul class="course-details">
   <li>Professor: Amrit Thapa</li>
   <li>TA in Spring 2021</li>
 </ul>
 
-<p class="course-title"><a href="https://catalog.upenn.edu/courses/educ/"><strong>EDUC (grad-level) Principles of Monitoring & Evaluation in International Education Development</strong></a></p>
+<p class="course-title"><a href="https://catalog.upenn.edu/courses/educ/">EDUC (grad-level) Principles of Monitoring & Evaluation in International Education Development</a></p>
 <ul class="course-details">
   <li>Professor: Amrit Thapa</li>
   <li>TA & Lab Instructor in Fall 2020</li>

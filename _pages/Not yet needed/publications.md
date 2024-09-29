@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: publications
 permalink: /publications/
 nav: true
 nav_order: 2
@@ -39,7 +39,7 @@ li {
 
 
 
- <h2 class="section-space">Book Chapters</h2>
+ <h2 class="section-space">Book Chapter</h2>
 
 <ul>
   <li>Bastani, H., Bastani, O., & <strong>Chung, Angel T.-H.</strong>. (2024). <a href="https://doi.org/10.1007/978-3-031-60867-4_12" class="paper-title">Optimizing Health Supply Chains in LMICs with Machine Learning: A Case Study in Sierra Leone</a>. In C. S. Tang (Ed.), <i>Responsible and Sustainable Operations: The New Frontier</i> (pp. 187-202). Springer Nature Switzerland.
