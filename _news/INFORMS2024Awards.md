@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2024-10-20
+date: 2024 October 20
 inline: true
+related_posts: false
 ---
 
 INFORMS Annual Meeting (Scheduled) @Seattle
