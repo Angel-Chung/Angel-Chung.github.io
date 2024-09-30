@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: 
 nav: true
-nav_order: 7
+nav_order: 8
 ---
 
 <style>
@@ -61,6 +61,6 @@ nav_order: 7
 #### Mentorship 
 
 <ul class="course-details">
-  <li>Mentor, 2024 Wharton DEI Program</li>
+  <li>Mentor, 2024 Fall Wharton DEI Program</li>
   <li><a href="https://ldi.upenn.edu/education/penn-ldi-training-programs/sumr/"> Mentor, 2024 Summer Undergraduate Mentored Research Program (SUMR)</a></li>
 </ul>

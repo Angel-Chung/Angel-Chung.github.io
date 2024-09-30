@@ -19,4 +19,6 @@ nav_order: 6
 
 <p class="award-title">Finalist, 2024 Doing Good with Good OR Student Paper Competition</p>
 
+<p class="award-title">Global Scholar, 2022-Present Government Scholarship to Study Abroad, Ministry of Education</p>
+
 <p class="award-title"><a href="https://provost.upenn.edu/for-students/teaching-at-penn/teaching-awards/">Winner, 2021 Penn Prize for Excellence in Graduate Teaching Award</a></p>

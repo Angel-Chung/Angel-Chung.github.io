@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 INFORMS Annual Meeting @Phoenix 
-- Fairness in Real-World Systems Session \\
+- Fairness in Real-World Systems Session 
 - Co-Chair of Data-Driven Healthcare Operaions Session
