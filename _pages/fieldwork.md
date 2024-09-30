@@ -8,55 +8,98 @@ nav_order: 7
 ---
 
 <style>
+  :root {
+    --text-color: #000000;
+    --bg-color: #fff;
+    --border-color: #ddd;
+    --link-color: #0066cc;
+    --highlight-bg: #ffffd0;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-color: #000000;
+      --bg-color: #1a1a1a;
+      --border-color: #444;
+      --link-color: #6699ff;
+      --highlight-bg: #3a3a00;
+    }
+  }
+
+  body {
+    color: var(--text-color) !important;
+    background-color: var(--bg-color);
+  }
+
+  .section-title,
+  .section-subtitle,
+  .quote,
+  .quote-author,
+  p,
+  li {
+    color: var(--text-color) !important;
+  }
+
   .quote {
     font-style: italic;
     font-size: 1.1em;
-    color: #555;
-    border-left: 4px solid #ddd;
+    color: var(--text-color);
+    border-left: 4px solid var(--border-color);
     padding-left: 20px;
     margin: 20px 0;
   }
+
   .quote-author {
     font-style: normal;
     display: block;
     margin-top: 10px;
   }
+
   .highlight {
-    background-color: #ffffd0;
+    background-color: var(--highlight-bg);
     padding: 2px 4px;
   }
+
   .section {
     margin-top: 40px;
   }
+
   .section-header {
     text-align: center;
     margin-bottom: 30px;
   }
+
   .section-title {
     font-size: 1.5em;
     font-weight: bold;
     margin: 0;
-    color: #333;
+    color: var(--text-color);
   }
+
   .section-subtitle {
     font-size: 1.2em;
     margin: 5px 0 0;
-    color: #555;
+    color: var(--text-color);
   }
+
   .bold {
     font-weight: bold;
+    color: #000000 !important;
   }
+
   .image-gallery {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     grid-gap: 20px;
     margin-bottom: 20px;
   }
+
   .image-gallery img {
     width: 100%;
     height: auto;
     object-fit: cover;
   }
+
   @media (max-width: 768px) {
     .section-title {
       font-size: 1.3em;
@@ -68,6 +111,7 @@ nav_order: 7
       grid-template-columns: 1fr;
     }
   }
+
   .logo-row {
     display: flex;
     justify-content: space-between;
@@ -75,11 +119,16 @@ nav_order: 7
     flex-wrap: nowrap;
     margin: 20px 0;
   }
+
   .logo-row img {
     max-width: 22%;
     height: auto;
     object-fit: contain;
+    background-color: #fff;
+    padding: 5px;
+    border-radius: 5px;
   }
+
   @media (max-width: 768px) {
     .logo-row {
       flex-wrap: wrap;
@@ -89,26 +138,27 @@ nav_order: 7
       margin-bottom: 10px;
     }
   }
+
   .acknowledgment {
     margin-top: 50px;
     padding: 20px;
     background-color: #f8f8f8;
-    border-top: 1px solid #ddd;
+    border-top: 1px solid var(--border-color);
     font-size: 0.9em;
-    color: #555;
+    color: var(--text-color);
   }
 
   .appreciation {
     margin-top: 50px;
     padding-top: 20px;
-    border-top: 1px solid #ddd;
+    border-top: 1px solid var(--border-color);
     font-size: 0.9em;
-    color: #555;
+    color: var(--text-color);
     line-height: 1.6;
   }
 
   .appreciation a {
-    color: #0066cc;
+    color: var(--link-color);
     text-decoration: none;
   }
 

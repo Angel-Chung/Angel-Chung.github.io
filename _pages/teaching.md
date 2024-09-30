@@ -8,24 +8,78 @@ nav_order: 8
 ---
 
 <style>
+  :root {
+    --text-color: #333;
+    --bg-color: transparent;
+    --link-color: #0066cc;
+    --link-hover-color: #004080;
+    --heading-color: #222;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --text-color: #d0d0d0;
+      --bg-color: #121212;
+      --link-color: #FFFFFF;
+      --link-hover-color: #aaccff;
+      --heading-color: #ffffff;
+    }
+  }
+
+  .teaching-content {
+    color: var(--text-color);
+    background-color: var(--bg-color);
+    padding: 20px;
+    margin: -20px;  /* Negative margin to counteract padding */
+    width: calc(100% + 40px);  /* Full width plus padding */
+  }
+
+  .university-heading {
+    color: var(--heading-color) !important;
+    font-size: 24px !important;
+    font-weight: bold !important;
+    margin: 20px 0 !important;
+    padding: 10px !important;
+    border: 2px solid var(--heading-color) !important;
+    display: inline-block !important;
+  }
+
   .course-title {
-    margin-bottom: 0.2em;  /* Reduced from default */
+    margin-bottom: 0.2em;
   }
   .course-title a {
-    color: black;
+    color: var(--link-color);
     text-decoration: underline;
+  }
+  .course-title a:hover {
+    color: var(--link-hover-color);
+  }
+  @media (prefers-color-scheme: dark) {
+    .course-title a {
+      color: #ffffff !important;
+    }
+    .course-title a:hover {
+      color: #cccccc !important;
+    }
   }
   .course-details {
     margin-top: 0;
     margin-bottom: 1em;
     margin-left: 1em;
+    color: var(--text-color);
   }
-  h4 {
-    margin-bottom: 1em; /* Adds space below the h3 title */
+  .course-details a {
+    color: var(--link-color);
+    text-decoration: underline;
+  }
+  .course-details a:hover {
+    color: var(--link-hover-color);
   }
 </style>
 
-#### University of Pennsylvania
+<div class="teaching-content">
+
+<h4 id="university-heading">University of Pennsylvania</h4>
 
 <p class="course-title"><a href="https://oid.wharton.upenn.edu/programs/undergraduate/course-descriptions/">OIDD (undergrad) Introduction To OID</a></p>
 <ul class="course-details">
@@ -58,9 +112,11 @@ nav_order: 8
   <li>Received <a href="https://provost.upenn.edu/for-students/teaching-at-penn/teaching-awards/">2021 Penn Prize for Excellence in Graduate Teaching Award</a></li>
 </ul>
 
-#### Mentorship 
+<h4>Mentorship</h4>
 
 <ul class="course-details">
   <li>Mentor, 2024 Fall Wharton DEI Program</li>
   <li><a href="https://ldi.upenn.edu/education/penn-ldi-training-programs/sumr/"> Mentor, 2024 Summer Undergraduate Mentored Research Program (SUMR)</a></li>
 </ul>
+
+</div>
