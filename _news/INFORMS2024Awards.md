@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-INFORMS Annual Meeting (Scheduled) @Seattle
+INFORMS Annual Meeting @Seattle
 - Doing Good with Good OR Session
 - PSOR Best Paper Award Finalists Session
 - MSOM Student Paper Competition Finalists Session
