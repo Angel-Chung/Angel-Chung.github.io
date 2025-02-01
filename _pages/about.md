@@ -26,6 +26,6 @@ My research is centered on developing and deploying machine learning (ML) algori
 
 My ongoing works focus on the use of large language models (LLMs) and reinforcement learning for education and global health, partnering with schools, hospitals, and governments across the globe. I am passionate about working with practitioners and policymakers to transform socially impactful research into real-world solutions. 
 
-Previously, I worked with the Asian Development Bank and in a national government legislature. 
-
 Check my recent work in collaboration with the Government of Sierra Leone at [Analytics at Wharton's Research Spotlight](https://analytics.wharton.upenn.edu/news/research-spotlight-angel-chung/?fbclid=IwAR3iEks2-Xu9e03F8BeeZw2NRHL3oUYOjHJ0QgvPmvVCk-7iuM65VDqpEss_aem_AVVmrYAwtwUrDmd0pjIE75g59MS9TR_eI51F8SolsVR1zjt0v6LpkrY3Z3w3z4G7rTXoIWw3BiO_aes-egehzpZh). 
+
+Previously, I worked with the Asian Development Bank and in a national government legislature. I hold dual master's degrees in Statistics and International Educational Development from the University of Pennsylvania, as well as dual bachelor's degrees in Economics and Sociology from National Chengchi University.

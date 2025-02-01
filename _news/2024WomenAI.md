@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Panel Speaker, UPenn Undergraduate Women in AI (Scheduled) @UPenn
+Panel Speaker, UPenn Undergraduate Women in AI @UPenn
