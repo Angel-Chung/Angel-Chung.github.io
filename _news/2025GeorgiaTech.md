@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-(Scheduled) Guest Lecture - AI for Social Good @Georgia Tech
+Guest Lecture - CSE 8803 AI for Social Good @Georgia Tech

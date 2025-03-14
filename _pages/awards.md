@@ -13,11 +13,13 @@ nav_order: 6
   }
 </style>
 
-<p class="award-title">1st Place, 2024 INFORMS Public Sector Operations Research Best Paper Award</p>
+<p class="award-title">Runner-Up, Best Paper Presentation at 2025 Early-Career Sustainable Operations Management Workshop </p>
+
+<p class="award-title"><a href="https://www.informs.org/Recognizing-Excellence/Community-Prizes/Public-and-Societal-Operations-Research/Public-Sector-Operations-Research-Best-Paper-Award">1st Place, 2024 INFORMS Public Sector Operations Research Best Paper Award</p>
 
 <p class="award-title">Finalist, 2024 MSOM Student Paper Competition</p>
 
-<p class="award-title">2nd Place, 2024 Doing Good with Good OR Student Paper Competition</p>
+<p class="award-title"><a href="https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Doing-Good-with-Good-OR-Student-Paper-Competition">2nd Place, 2024 Doing Good with Good OR Student Paper Competition</p>
 
 <p class="award-title">Global Scholar, 2022-Present Government Scholarship to Study Abroad, Ministry of Education</p>
 
