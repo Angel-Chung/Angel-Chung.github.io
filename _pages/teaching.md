@@ -115,6 +115,7 @@ nav_order: 8
 <h4>Mentorship</h4>
 
 <ul class="course-details">
+  <li>Mentor, 2025 Spring Penn CIS DATS5990 Data Science Thesis/Practicum</li>
   <li>Mentor, 2024 Fall Wharton DEI Program</li>
   <li><a href="https://ldi.upenn.edu/education/penn-ldi-training-programs/sumr/"> Mentor, 2024 Summer Undergraduate Mentored Research Program (SUMR)</a></li>
 </ul>
