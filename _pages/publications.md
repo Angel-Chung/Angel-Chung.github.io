@@ -33,7 +33,7 @@ h2 {
 <h2>Working Papers</h2>
 
 <ul>
-  <li><strong>Chung, Angel T.-H.</strong>, Abdulai, J., Bayoh, P., Sandi, L., Smart, F., Bastani*, H., & Bastani*, O. (2024). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880140" class="paper-title">Optimizing Health Supply Chains with Decision-Aware Machine Learning</a>. <i>Available at SSRN</i>.
+  <li><strong>Chung, Angel T.-H.</strong>, Abdulai, J., Bayoh, P., Sandi, L., Smart, F., Bastani*, H., & Bastani*, O. (2024). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880140" class="paper-title">Improving Access to Essential Medicines in Sierra Leone via Decision-Aware Machine Learning</a>. <i>Under Revision, Available at SSRN</i>.
     <br><small>*denote equal senior authorship</small>
   </li>
 </ul>
@@ -55,6 +55,6 @@ h2 {
 <h2 class="section-space">Invited Paper</h2>
 <ul>
   <li>
-    <strong>Chung, Angel T.-H.</strong>. (2025). Application of AI in Healthcare Management in Developing Countries <span>(in Chinese)</span>. <i>Development Focus Quarterly</i> (forthcoming).
+    <strong>Chung, Angel T.-H.</strong>. (2025). Application of AI in Healthcare Management in Developing Countries <span>(in Chinese)</span>. <i>Development Focus Quarterly, Issue 20</i>.
   </li>
 </ul>

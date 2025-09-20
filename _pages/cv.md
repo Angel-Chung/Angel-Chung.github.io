@@ -15,7 +15,7 @@ classes: wide           # ←← THIS lifts the 820-px limit
      target="_blank" rel="noopener"
      class="btn btn-outline-primary rounded-pill shadow-sm d-inline-flex align-items-center gap-1 px-3 py-2">
     <i class="fa-solid fa-file-arrow-down"></i>
-    Download PDF
+    Download Full CV
   </a>
 </div>
 

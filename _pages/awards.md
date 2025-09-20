@@ -11,16 +11,26 @@ nav_order: 6
   .award-title {
     margin-bottom: 0.5em;
   }
+
+  ul li {
+    margin-bottom: 1em;
+  }
 </style>
 
-<p class="award-title">Runner-Up, Best Paper Presentation at 2025 Early-Career Sustainable Operations Management Workshop </p>
+<ul>
+  <li>Finalist, 2025 Service Science Best Student Paper Award</li>
+  <li>Finalist, 2025 Pierskalla Award for Best Paper in Healthcare</li>
+  <li>Finalist, 2025 Seth Bonder Scholarship</li>
 
-<p class="award-title"><a href="https://www.informs.org/Recognizing-Excellence/Community-Prizes/Public-and-Societal-Operations-Research/Public-Sector-Operations-Research-Best-Paper-Award">1st Place, 2024 INFORMS Public Sector Operations Research Best Paper Award</a></p>
+  <li>Runner-Up, Best Paper Presentation at 2025 Early-Career Sustainable Operations Management Workshop</li>
 
-<p class="award-title">Finalist, 2024 MSOM Student Paper Competition</p>
+  <li><a href="https://www.informs.org/Recognizing-Excellence/Community-Prizes/Public-and-Societal-Operations-Research/Public-Sector-Operations-Research-Best-Paper-Award">1st Place, 2024 INFORMS Public Sector Operations Research Best Paper Award</a></li>
 
-<p class="award-title"><a href="https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Doing-Good-with-Good-OR-Student-Paper-Competition">2nd Place, 2024 Doing Good with Good OR Student Paper Competition</a></p>
+  <li>Finalist, 2024 MSOM Student Paper Competition</li>
 
-<p class="award-title">Global Scholar, 2022-Present Government Scholarship to Study Abroad, Ministry of Education</p>
+  <li><a href="https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/Doing-Good-with-Good-OR-Student-Paper-Competition">2nd Place, 2024 Doing Good with Good OR Student Paper Competition</a></li>
 
-<p class="award-title"><a href="https://provost.upenn.edu/for-students/teaching-at-penn/teaching-awards/">Winner, 2021 Penn Prize for Excellence in Graduate Teaching Award</a></p>
+  <li>Global Scholar, 2022-Present Government Scholarship to Study Abroad, Ministry of Education</li>
+
+  <li><a href="https://provost.upenn.edu/for-students/teaching-at-penn/teaching-awards/">Winner, 2021 Penn Prize for Excellence in Graduate Teaching Award</a></li>
+</ul>

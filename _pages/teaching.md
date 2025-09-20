@@ -83,39 +83,37 @@ nav_order: 8
 
 <p class="course-title"><a href="https://oid.wharton.upenn.edu/programs/undergraduate/course-descriptions/">OIDD (undergrad) Introduction To OID</a></p>
 <ul class="course-details">
-  <li>Professor: Gérard Cachon & Alp Sungu</li>
-  <li>TA in Fall 2024</li>
+  <li>TA for Professor Gérard Cachon & Sergei Savin, Fall 2025</li>
+  <li>TA for Professor Gérard Cachon & Alp Sungu, Fall 2024</li>
 </ul>
 
 <p class="course-title"><a href="https://oid.wharton.upenn.edu/programs/undergraduate/course-descriptions/">OIDD (undergrad) Intro To Management Science</a></p>
 <ul class="course-details">
-  <li>Professor: Hamsa Bastani</li>
-  <li>TA in Spring 2024</li>
+  <li>TA for Professor Hamsa Bastani, Spring 2024</li>
 </ul>
 
 <p class="course-title"><a href="https://catalog.upenn.edu/courses/educ/">EDUC (grad-level) Economics of Education in Developing Countries</a></p>
 <ul class="course-details">
-  <li>Professor: Amrit Thapa</li>
-  <li>TA in Spring 2021</li>
+  <li>TA for Professor Amrit Thapa, Spring 2021</li>
 </ul>
 
 <p class="course-title"><a href="https://catalog.upenn.edu/courses/educ/">EDUC (grad-level) Advanced Topics in Monitoring & Evaluation in IED</a></p>
 <ul class="course-details">
-  <li>Professor: Amrit Thapa</li>
-  <li>TA in Spring 2021</li>
+  <li>TA for Professor Amrit Thapa, Spring 2021</li>
 </ul>
 
 <p class="course-title"><a href="https://catalog.upenn.edu/courses/educ/">EDUC (grad-level) Principles of Monitoring & Evaluation in International Education Development</a></p>
 <ul class="course-details">
-  <li>Professor: Amrit Thapa</li>
-  <li>TA & Lab Instructor in Fall 2020</li>
+  <li>Lab Instructor & TA for Professor Amrit Thapa, Fall 2020</li>
   <li>Received <a href="https://provost.upenn.edu/for-students/teaching-at-penn/teaching-awards/">2021 Penn Prize for Excellence in Graduate Teaching Award</a></li>
 </ul>
 
 <h4>Mentorship</h4>
 
 <ul class="course-details">
+  <li>Mentor, 2025 Project TYRA Young Researcher Association </li>
   <li>Mentor, 2025 Spring Penn CIS DATS5990 Data Science Thesis/Practicum</li>
+  <li>Mentor, 2024 & 2025 Wharton PhD Peer Program </li>
   <li>Mentor, 2024 Fall Wharton DEI Program</li>
   <li><a href="https://ldi.upenn.edu/education/penn-ldi-training-programs/sumr/"> Mentor, 2024 Summer Undergraduate Mentored Research Program (SUMR)</a></li>
 </ul>
