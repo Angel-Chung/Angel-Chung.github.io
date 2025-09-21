@@ -55,6 +55,16 @@ h2 {
 <h2 class="section-space">Invited Paper</h2>
 <ul>
   <li>
-    <strong>Chung, Angel T.-H.</strong>. (2025). Application of AI in Healthcare Management in Developing Countries <span>(in Chinese)</span>. <i>Development Focus Quarterly, Issue 20</i>.
+    <strong>Chung, Angel T.-H.</strong>. (2025). <a href="https://www.icdf.org.tw/wSite/ct?xItem=73588&ctNode=31211&mp=1" class="paper-title">Application of AI in Healthcare Management in Developing Countries</a> <span>(in Chinese)</span>. <i>Development Focus Quarterly, Issue 20</i>.
+  </li>
+</ul>
+
+<h2 class="section-space">Work In Progress</h2>
+<ul>
+  <li>
+    Bastani, H., Bastani, O., <strong>Chung, Angel T.-H.</strong> Incentive-Compatible Human-AI Collaboration via Adversarial Tasks.
+  </li>
+  <li>
+    <strong>Chung, Angel T.-H.</strong>, Bastani, H., Bastani, O., Kung, L-C. Enabling Personalized Learning in Large Language Models via Reinforcement Learning.
   </li>
 </ul>
