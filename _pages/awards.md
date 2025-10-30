@@ -18,8 +18,8 @@ nav_order: 6
 </style>
 
 <ul>
-  <li>Finalist, 2025 Service Science Best Student Paper Award</li>
-  <li>Finalist, 2025 Pierskalla Award for Best Paper in Healthcare</li>
+  <li>1st Place, 2025 Service Science Best Student Paper Award</li>
+  <li>2nd Place, 2025 Pierskalla Award for Best Paper in Healthcare</li>
   <li>Finalist, 2025 Seth Bonder Scholarship</li>
 
   <li>Runner-Up, Best Paper Presentation at 2025 Early-Career Sustainable Operations Management Workshop</li>
