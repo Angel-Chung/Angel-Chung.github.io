@@ -33,8 +33,17 @@ h2 {
 <h2>Working Papers</h2>
 
 <ul>
-  <li><strong>Chung, Angel T.-H.</strong>, Abdulai, J., Bayoh, P., Sandi, L., Smart, F., Bastani*, H., & Bastani*, O. (2024). <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880140" class="paper-title">Improving Access to Essential Medicines in Sierra Leone via Decision-Aware Machine Learning</a>. <i>Under Revision, Available at SSRN</i>.
-    <br><small>*denote equal senior authorship</small>
+  <li>
+    <strong>Chung, Angel T.-H.</strong>, Abdulai, J., Bayoh, P., Sandi, L., Smart, F., Bastani*, H., & Bastani*, O.
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880140" class="paper-title">Improving Access to Essential Medicines via Decision-Aware Machine Learning</a>.<br>
+    Conditionally Accepted, <i><strong>Nature</strong> (research article)</i>.<br>
+    <small>*denote equal last author</small>
+  </li>
+</ul>
+
+<ul>
+  <li><strong>Chung, Angel T.-H.</strong>, Zhang, B., Kung, L.-C., Bastani*, H., Bastani*, O. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6423358" class="paper-title">Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning</a>. <i>Available at SSRN</i>.
+    <br><small>*denote equal last author</small>
   </li>
 </ul>
 
@@ -63,8 +72,5 @@ h2 {
 <ul>
   <li>
     Bastani, H., Bastani, O., <strong>Chung, Angel T.-H.</strong> Incentive-Compatible Human-AI Collaboration via Adversarial Tasks.
-  </li>
-  <li>
-    <strong>Chung, Angel T.-H.</strong>, Bastani, H., Bastani, O., Kung, L-C. Enabling Personalized Learning in Large Language Models via Reinforcement Learning.
   </li>
 </ul>

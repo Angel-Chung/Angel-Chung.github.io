@@ -81,6 +81,11 @@ nav_order: 8
 
 <h4 id="university-heading">University of Pennsylvania</h4>
 
+<p class="course-title"><a href="https://oid.wharton.upenn.edu/programs/undergraduate/course-descriptions/">OIDD (MBA) Online Business Models and the Information-Based Firm</a></p>
+<ul class="course-details">
+  <li>TA for Professor Daniel Rock, Spring 2026</li>
+</ul>
+
 <p class="course-title"><a href="https://oid.wharton.upenn.edu/programs/undergraduate/course-descriptions/">OIDD (undergrad) Introduction To OID</a></p>
 <ul class="course-details">
   <li>TA for Professor Gérard Cachon & Sergei Savin, Fall 2025</li>
@@ -111,6 +116,7 @@ nav_order: 8
 <h4>Mentorship</h4>
 
 <ul class="course-details">
+  <li>Mentor, 2026 Penn Graduate School of Education Mentorship Program </li>
   <li>Mentor, 2025 Project TYRA Young Researcher Association </li>
   <li>Mentor, 2025 Spring Penn CIS DATS5990 Data Science Thesis/Practicum</li>
   <li>Mentor, 2024 & 2025 Wharton PhD Peer Program </li>

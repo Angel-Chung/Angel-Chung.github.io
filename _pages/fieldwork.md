@@ -220,6 +220,7 @@ nav_order: 7
 
 <div class="appreciation">
   <p>We sincerely appreciate the support from the following organizations to enable transformative impact of research in real-world practice: 
+  <a href="https://global.upenn.edu/grants/">Penn Global</a>, 
   <a href="https://ai-analytics.wharton.upenn.edu/wharton-healthcare-analytics-lab/">Wharton Healthcare Analytics Lab</a>, 
   <a href="https://ai-analytics.wharton.upenn.edu">Wharton AI & Analytics Initiative</a>, 
   <a href="https://global.wharton.upenn.edu">Wharton Global Initiatives</a>, 

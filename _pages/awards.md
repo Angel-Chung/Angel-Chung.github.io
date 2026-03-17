@@ -18,6 +18,7 @@ nav_order: 6
 </style>
 
 <ul>
+  <li>2026 Penn AI Fellowship</li>
   <li>1st Place, 2025 Service Science Best Student Paper Award</li>
   <li>2nd Place, 2025 Pierskalla Award for Best Paper in Healthcare</li>
   <li>Finalist, 2025 Seth Bonder Scholarship</li>
