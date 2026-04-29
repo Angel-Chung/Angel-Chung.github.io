@@ -8,72 +8,58 @@ nav_order: 8
 ---
 
 <style>
-  :root {
-    --text-color: #333;
-    --bg-color: transparent;
-    --link-color: #0066cc;
-    --link-hover-color: #004080;
-    --heading-color: #222;
-  }
-
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --text-color: #d0d0d0;
-      --bg-color: #121212;
-      --link-color: #FFFFFF;
-      --link-hover-color: #aaccff;
-      --heading-color: #ffffff;
-    }
-  }
-
   .teaching-content {
-    color: var(--text-color);
-    background-color: var(--bg-color);
+    color: var(--global-text-color);
+    background-color: transparent;
     padding: 20px;
     margin: -20px;  /* Negative margin to counteract padding */
     width: calc(100% + 40px);  /* Full width plus padding */
   }
 
-  .university-heading {
-    color: var(--heading-color) !important;
-    font-size: 24px !important;
+  .teaching-content h4 {
+    align-items: center;
+    color: var(--global-text-color) !important;
+    display: flex !important;
+    font-size: 1.25rem !important;
     font-weight: bold !important;
-    margin: 20px 0 !important;
-    padding: 10px !important;
-    border: 2px solid var(--heading-color) !important;
-    display: inline-block !important;
+    gap: 0.55rem;
+    margin: 1.5rem 0 0.85rem !important;
+    padding: 0 !important;
+    border: 0 !important;
+  }
+
+  .teaching-content h4::before {
+    background-color: var(--global-theme-color);
+    border-radius: 999px;
+    content: "";
+    display: inline-block;
+    flex: 0 0 auto;
+    height: 1.25rem;
+    width: 0.28rem;
   }
 
   .course-title {
     margin-bottom: 0.2em;
   }
   .course-title a {
-    color: var(--link-color);
+    color: var(--global-theme-color);
     text-decoration: underline;
   }
   .course-title a:hover {
-    color: var(--link-hover-color);
-  }
-  @media (prefers-color-scheme: dark) {
-    .course-title a {
-      color: #ffffff !important;
-    }
-    .course-title a:hover {
-      color: #cccccc !important;
-    }
+    color: var(--global-hover-color);
   }
   .course-details {
     margin-top: 0;
     margin-bottom: 1em;
     margin-left: 1em;
-    color: var(--text-color);
+    color: var(--global-text-color);
   }
   .course-details a {
-    color: var(--link-color);
+    color: var(--global-theme-color);
     text-decoration: underline;
   }
   .course-details a:hover {
-    color: var(--link-hover-color);
+    color: var(--global-hover-color);
   }
 </style>
 

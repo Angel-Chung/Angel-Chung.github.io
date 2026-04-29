@@ -8,111 +8,93 @@ nav_order: 7
 ---
 
 <style>
-  :root {
-    --text-color: #000000;
-    --bg-color: #fff;
-    --border-color: #ddd;
-    --link-color: #0066cc;
-    --highlight-bg: #ffffd0;
+  .fieldwork-page {
+    color: var(--global-text-color);
   }
 
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --text-color: #000000;
-      --bg-color: #1a1a1a;
-      --border-color: #444;
-      --link-color: #6699ff;
-      --highlight-bg: #3a3a00;
-    }
+  .fieldwork-page .section-title,
+  .fieldwork-page .section-subtitle,
+  .fieldwork-page .quote,
+  .fieldwork-page .quote-author,
+  .fieldwork-page p,
+  .fieldwork-page li,
+  .fieldwork-page .bold {
+    color: inherit;
   }
 
-  body {
-    color: var(--text-color) !important;
-    background-color: var(--bg-color);
+  .fieldwork-page a {
+    color: var(--global-theme-color);
   }
 
-  .section-title,
-  .section-subtitle,
-  .quote,
-  .quote-author,
-  p,
-  li {
-    color: var(--text-color) !important;
-  }
-
-  .quote {
+  .fieldwork-page .quote {
     font-style: italic;
     font-size: 1.1em;
-    color: var(--text-color);
-    border-left: 4px solid var(--border-color);
+    border-left: 4px solid var(--global-divider-color);
     padding-left: 20px;
     margin: 20px 0;
   }
 
-  .quote-author {
+  .fieldwork-page .quote-author {
     font-style: normal;
     display: block;
     margin-top: 10px;
   }
 
-  .highlight {
-    background-color: var(--highlight-bg);
+  .fieldwork-page .highlight {
+    background-color: var(--global-code-bg-color);
     padding: 2px 4px;
   }
 
-  .section {
+  .fieldwork-page .section {
     margin-top: 40px;
   }
 
-  .section-header {
+  .fieldwork-page .section-header {
     text-align: center;
     margin-bottom: 30px;
   }
 
-  .section-title {
+  .fieldwork-page .section-title {
     font-size: 1.5em;
     font-weight: bold;
     margin: 0;
-    color: var(--text-color);
   }
 
-  .section-subtitle {
+  .fieldwork-page .section-subtitle {
     font-size: 1.2em;
     margin: 5px 0 0;
-    color: var(--text-color);
   }
 
-  .bold {
+  .fieldwork-page .bold {
     font-weight: bold;
-    color: #000000 !important;
   }
 
-  .image-gallery {
+  .fieldwork-page .image-gallery {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     grid-gap: 20px;
     margin-bottom: 20px;
   }
 
-  .image-gallery img {
+  .fieldwork-page .image-gallery img {
     width: 100%;
     height: auto;
     object-fit: cover;
   }
 
   @media (max-width: 768px) {
-    .section-title {
+    .fieldwork-page .section-title {
       font-size: 1.3em;
     }
-    .section-subtitle {
+    .fieldwork-page .section-subtitle {
       font-size: 1.1em;
     }
-    .image-gallery {
+    .fieldwork-page .image-gallery {
       grid-template-columns: 1fr;
     }
   }
 
-  .logo-row {
+  .fieldwork-page .logo-row {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -120,7 +102,7 @@ nav_order: 7
     margin: 20px 0;
   }
 
-  .logo-row img {
+  .fieldwork-page .logo-row img {
     max-width: 22%;
     height: auto;
     object-fit: contain;
@@ -130,42 +112,41 @@ nav_order: 7
   }
 
   @media (max-width: 768px) {
-    .logo-row {
+    .fieldwork-page .logo-row {
       flex-wrap: wrap;
     }
-    .logo-row img {
+    .fieldwork-page .logo-row img {
       max-width: 45%;
       margin-bottom: 10px;
     }
   }
 
-  .acknowledgment {
+  .fieldwork-page .acknowledgment {
     margin-top: 50px;
     padding: 20px;
-    background-color: #f8f8f8;
-    border-top: 1px solid var(--border-color);
+    background-color: var(--global-card-bg-color);
+    border-top: 1px solid var(--global-divider-color);
     font-size: 0.9em;
-    color: var(--text-color);
   }
 
-  .appreciation {
+  .fieldwork-page .appreciation {
     margin-top: 50px;
     padding-top: 20px;
-    border-top: 1px solid var(--border-color);
+    border-top: 1px solid var(--global-divider-color);
     font-size: 0.9em;
-    color: var(--text-color);
     line-height: 1.6;
   }
 
-  .appreciation a {
-    color: var(--link-color);
+  .fieldwork-page .appreciation a {
     text-decoration: none;
   }
 
-  .appreciation a:hover {
+  .fieldwork-page .appreciation a:hover {
     text-decoration: underline;
   }
 </style>
+
+<div class="fieldwork-page">
 
 <div class="quote">
   "Introducing innovation and reform is not easy, because change inevitably confronts established sets of ideas, practices, relationships, and results… We have learned that <span class="bold">locally-led</span> development is more likely to be sustained when it alters incentives and institutions."
@@ -226,4 +207,6 @@ nav_order: 7
   <a href="https://global.wharton.upenn.edu">Wharton Global Initiatives</a>, 
   <a href="https://mackinstitute.wharton.upenn.edu">Mack Institute for Innovation Management</a>, 
   <a href="https://www.tanotofoundation.org/en/">Tanoto ASEAN Initiative</a>.</p>
+</div>
+
 </div>

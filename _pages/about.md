@@ -22,8 +22,8 @@ social: true # includes social icons at the bottom of the page
 
 I am a fourth-year PhD student in [Operations, Information, and Decisions at Wharton School](https://oid.wharton.upenn.edu), University of Pennsylvania (UPenn) and a [Penn AI Fellow](https://ai.upenn.edu/penn-ai-fellows). I am very fortunate to be advised by [Prof. Hamsa Bastani](https://hamsabastani.github.io). 
 
-My research focuses on developing and deploying machine learning (ML) algorithms and optimization techniques for data-driven decision-making in healthcare, education, and social good initiatives, particularly within marginalized contexts.
+My research focuses on designing AI for better human decision-making and public sector operations. I develop and deploy machine learning, optimization, and human–AI systems to support data-driven decision-making in healthcare, education, public policy, and social good initiatives, particularly within marginalized contexts.
 
-My ongoing works focus on the use of large language models (LLMs) and reinforcement learning for education and global health, partnering with schools, hospitals, and governments across the globe. I am passionate about working with practitioners and policymakers to transform socially impactful research into real-world solutions. 
+I have been fortunate to collaborate with schools, hospitals, and governments across the globe to develop and improve these systems through field experiments and deployments. I am passionate about working with practitioners and policymakers to transform socially impactful research into real-world solutions.
 
-Check my recent work in collaboration with the Government of Sierra Leone at [Analytics at Wharton's Research Spotlight](https://analytics.wharton.upenn.edu/news/research-spotlight-angel-chung/?fbclid=IwAR3iEks2-Xu9e03F8BeeZw2NRHL3oUYOjHJ0QgvPmvVCk-7iuM65VDqpEss_aem_AVVmrYAwtwUrDmd0pjIE75g59MS9TR_eI51F8SolsVR1zjt0v6LpkrY3Z3w3z4G7rTXoIWw3BiO_aes-egehzpZh). 
+My work has been published in *Nature* and recognized with multiple [awards]({{ '/awards/' | relative_url }}). Check out my research [here]({{ '/publications/' | relative_url }}).

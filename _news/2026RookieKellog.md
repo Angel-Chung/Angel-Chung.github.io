@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Kellogg Operations Management Rookiepalooza (Scheduled) @Northwestern Kellogg
+Kellogg Operations Management Rookiepalooza @Northwestern Kellogg
