@@ -322,6 +322,7 @@ h2 {
     <small class="paper-note">*denote equal last author</small>
     <div class="paper-actions" aria-label="Paper links">
       <a class="paper-button" href="https://www.nature.com/articles/s41586-026-10433-7" target="_blank" rel="noopener">Nature</a>
+      <a class="paper-button" href="https://www.nature.com/articles/d41586-026-01152-0" target="_blank" rel="noopener">Nature News</a>
       <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880140" target="_blank" rel="noopener">SSRN</a>
       <a class="paper-button" href="https://communities.springernature.com/posts/behind-the-paper-deploying-decision-aware-learning-for-real-world-health-systems" target="_blank" rel="noopener">Behind the Paper</a>
       <details class="paper-news">
