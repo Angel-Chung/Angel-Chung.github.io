@@ -358,7 +358,7 @@ h2 {
 <ul class="research-list">
   <li>
     <span class="paper-title-line"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6423358" class="paper-title">Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning</a></span>
-    <div class="paper-authors">Joint work with Zhang, B., Kung, L.-C., Bastani*, H., and Bastani*, O.</div>
+    <div class="paper-authors">with Zhang, B., Kung, L.-C., Bastani*, H., and Bastani*, O.</div>
     <div class="paper-venue"><i>Available at SSRN.</i></div>
     <small class="paper-note">*denote equal last author</small>
     <div class="paper-actions" aria-label="Paper links">
@@ -410,7 +410,7 @@ h2 {
   </li>
   <li>
     <span class="paper-title-line paper-title-plain">Grand Challenges for Operations Management: UN Sustainable Development Goal 3</span>
-    <div class="paper-authors">Joint work with Bastani, H., Joen, H., Yadav, P.</div>
+    <div class="paper-authors">with Bastani, H., Joen, H., Yadav, P.</div>
     <div class="paper-venue"><i>Proposal accepted for M&SOM Special Issue.</i></div>
   </li>
 </ul>
@@ -479,7 +479,7 @@ h2 {
   </li>
   <li>
     <span class="paper-title-line paper-title-plain">The Impact of Human-LLM Collaboration in Outpatient Care: Evidence from Somaliland</span>
-    <div class="paper-authors">Joint work with Qin, J., Lin, P-C, and Bastani, H.</div>
+    <div class="paper-authors">with Qin, J., Lin, P.-C., and Bastani, H.</div>
   </li>
   <li>
     <span class="paper-title-line paper-title-plain">Trust in AI for Resource Allocation Using Housing Images</span>
