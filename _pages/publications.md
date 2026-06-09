@@ -318,7 +318,7 @@ h2 {
   <li>
     <span class="paper-title-line"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880140" class="paper-title">Improving Access to Essential Medicines via Decision-Aware Machine Learning</a></span>
     <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Abdulai, J., Bayoh, P., Sandi, L., Smart, F., Bastani*, H., Bastani*, O. (2026).</div>
-    <div class="paper-venue"><i><strong>Nature</strong> (research article)</i>.</div>
+    <div class="paper-venue"><i><strong>Nature</strong> 653, 1178–1183 (2026) (research article)</i>.</div>
     <small class="paper-note">*denote equal last author</small>
     <div class="paper-actions" aria-label="Paper links">
       <a class="paper-button" href="https://www.nature.com/articles/s41586-026-10433-7" target="_blank" rel="noopener">Nature</a>
@@ -326,9 +326,15 @@ h2 {
       <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880140" target="_blank" rel="noopener">SSRN</a>
       <a class="paper-button" href="https://communities.springernature.com/posts/behind-the-paper-deploying-decision-aware-learning-for-real-world-health-systems" target="_blank" rel="noopener">Behind the Paper</a>
       <details class="paper-news">
-        <summary>News articles</summary>
+        <summary>Media Coverage</summary>
         <div class="paper-news-panel">
           <ul class="paper-news-list">
+            <li>
+              <a class="paper-news-link" href="https://www.nature.com/articles/d41586-026-01152-0" target="_blank" rel="noopener">
+                <span class="paper-news-source">Nature News</span>
+                <span class="paper-news-detail">Research highlight</span>
+              </a>
+            </li>
             <li>
               <a class="paper-news-link" href="https://analytics.wharton.upenn.edu/news/research-spotlight-angel-chung/" target="_blank" rel="noopener">
                 <span class="paper-news-source">Wharton AI & Analytics</span>
@@ -352,13 +358,13 @@ h2 {
 <ul class="research-list">
   <li>
     <span class="paper-title-line"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6423358" class="paper-title">Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning</a></span>
-    <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Zhang, B., Kung, L.-C., Bastani*, H., Bastani*, O.</div>
+    <div class="paper-authors">Joint work with Zhang, B., Kung, L.-C., Bastani*, H., and Bastani*, O.</div>
     <div class="paper-venue"><i>Available at SSRN.</i></div>
     <small class="paper-note">*denote equal last author</small>
     <div class="paper-actions" aria-label="Paper links">
       <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6423358" target="_blank" rel="noopener">SSRN</a>
       <details class="paper-news">
-        <summary>News articles</summary>
+        <summary>Media Coverage</summary>
         <div class="paper-news-panel">
           <ul class="paper-news-list">
             <li>
@@ -373,6 +379,24 @@ h2 {
                 <span class="paper-news-detail">Proof Points</span>
               </a>
             </li>
+            <li>
+              <a class="paper-news-link" href="https://knowledge.wharton.upenn.edu/article/how-personalized-ai-tutors-can-help-students-learn/" target="_blank" rel="noopener">
+                <span class="paper-news-source">Knowledge at Wharton</span>
+                <span class="paper-news-detail">How personalized AI tutors can help students learn</span>
+              </a>
+            </li>
+            <li>
+              <a class="paper-news-link" href="https://ai-analytics.wharton.upenn.edu/insights/why-better-ai-tutors-arent-about-better-answers/" target="_blank" rel="noopener">
+                <span class="paper-news-source">Wharton AI & Analytics</span>
+                <span class="paper-news-detail">Why better AI tutors aren't about better answers</span>
+              </a>
+            </li>
+            <li>
+              <a class="paper-news-link" href="https://garyliang.substack.com/p/3-2-1-on-ai-and-learning-adaptive" target="_blank" rel="noopener">
+                <span class="paper-news-source">3-2-1 on AI and learning adaptive</span>
+                <span class="paper-news-detail"></span>
+              </a>
+            </li>
           </ul>
         </div>
       </details>
@@ -383,6 +407,11 @@ h2 {
         </div>
       </details>
     </div>
+  </li>
+  <li>
+    <span class="paper-title-line paper-title-plain">Grand Challenges for Operations Management: UN Sustainable Development Goal 3</span>
+    <div class="paper-authors">Joint work with Bastani, H., Joen, H., Yadav, P.</div>
+    <div class="paper-venue"><i>Proposal accepted for M&SOM Special Issue.</i></div>
   </li>
 </ul>
 
@@ -449,8 +478,8 @@ h2 {
     <div class="paper-authors">with Bastani, H. and Bastani, O.</div>
   </li>
   <li>
-    <span class="paper-title-line paper-title-plain">Operational Outcomes of an AI Medical Scribe: Evidence from Somaliland</span>
-    <div class="paper-authors">with Qin, J. and Bastani, H.</div>
+    <span class="paper-title-line paper-title-plain">The Impact of Human-LLM Collaboration in Outpatient Care: Evidence from Somaliland</span>
+    <div class="paper-authors">Joint work with Qin, J., Lin, P-C, and Bastani, H.</div>
   </li>
   <li>
     <span class="paper-title-line paper-title-plain">Trust in AI for Resource Allocation Using Housing Images</span>
