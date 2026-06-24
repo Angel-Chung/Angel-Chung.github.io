@@ -341,6 +341,12 @@ h2 {
                 <span class="paper-news-detail">Research spotlight</span>
               </a>
             </li>
+            <li>
+              <a class="paper-news-link" href="https://penntoday.upenn.edu/news/transforming-healthcare-logistics-low-cost-ai" target="_blank" rel="noopener">
+                <span class="paper-news-source">Penn Today</span>
+                <span class="paper-news-detail">Transforming healthcare logistics with low-cost AI</span>
+              </a>
+            </li>
           </ul>
         </div>
       </details>
@@ -397,6 +403,12 @@ h2 {
                 <span class="paper-news-detail"></span>
               </a>
             </li>
+            <li>
+              <a class="paper-news-link" href="https://www.linkedin.com/posts/edtech-aiineducation-adaptivelearning-ugcPost-7464768372988350464-8j6Y/" target="_blank" rel="noopener">
+                <span class="paper-news-source">EdTech Insider</span>
+                <span class="paper-news-detail">EdTech, AI in education, adaptive learning</span>
+              </a>
+            </li>
           </ul>
         </div>
       </details>
@@ -411,7 +423,7 @@ h2 {
   <li>
     <span class="paper-title-line paper-title-plain">Grand Challenges for Operations Management: UN Sustainable Development Goal 3</span>
     <div class="paper-authors">with Bastani, H., Joen, H., Yadav, P.</div>
-    <div class="paper-venue"><i>Proposal accepted for M&SOM Special Issue.</i></div>
+    <div class="paper-venue"><i>Minor Revision, Manufacturing and Service Operations Management.</i></div>
   </li>
 </ul>
 
