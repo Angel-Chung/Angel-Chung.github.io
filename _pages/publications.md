@@ -318,7 +318,7 @@ h2 {
   <li>
     <span class="paper-title-line"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880140" class="paper-title">Improving Access to Essential Medicines via Decision-Aware Machine Learning</a></span>
     <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Abdulai, J., Bayoh, P., Sandi, L., Smart, F., Bastani*, H., Bastani*, O. (2026).</div>
-    <div class="paper-venue"><i><strong>Nature</strong> 653, 1178–1183 (2026) (research article)</i>.</div>
+    <div class="paper-venue"><i><strong>Nature</strong> 653, 1178–1183 (research article)</i>.</div>
     <small class="paper-note">*denote equal last author</small>
     <div class="paper-actions" aria-label="Paper links">
       <a class="paper-button" href="https://www.nature.com/articles/s41586-026-10433-7" target="_blank" rel="noopener">Nature</a>
@@ -364,7 +364,7 @@ h2 {
 <ul class="research-list">
   <li>
     <span class="paper-title-line"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6423358" class="paper-title">Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning</a></span>
-    <div class="paper-authors">with Zhang, B., Kung, L.-C., Bastani*, H., and Bastani*, O.</div>
+    <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Zhang, B., Kung, L.-C., Bastani*, H., and Bastani*, O.</div>
     <div class="paper-venue"><i>Available at SSRN.</i></div>
     <small class="paper-note">*denote equal last author</small>
     <div class="paper-actions" aria-label="Paper links">
@@ -422,8 +422,12 @@ h2 {
   </li>
   <li>
     <span class="paper-title-line paper-title-plain">Grand Challenges for Operations Management: UN Sustainable Development Goal 3</span>
-    <div class="paper-authors">with Bastani, H., Joen, H., Yadav, P.</div>
+    <div class="paper-authors">Bastani, H., <strong>Chung, A. T.-H.</strong>, Joen, H., Yadav, P.</div>
     <div class="paper-venue"><i>Minor Revision, Manufacturing and Service Operations Management.</i></div>
+  </li>
+  <li>
+    <span class="paper-title-line paper-title-plain">The Impact of Human-AI Collaboration in Outpatient Care: Evidence from Somaliland</span>
+    <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Qin, J., Lin, P.-C., and Bastani, H.</div>
   </li>
 </ul>
 
@@ -488,10 +492,6 @@ h2 {
   <li>
     <span class="paper-title-line paper-title-plain">Incentive-Compatible Human-AI Collaboration via Adversarial Tasks</span>
     <div class="paper-authors">with Bastani, H. and Bastani, O.</div>
-  </li>
-  <li>
-    <span class="paper-title-line paper-title-plain">The Impact of Human-LLM Collaboration in Outpatient Care: Evidence from Somaliland</span>
-    <div class="paper-authors">with Qin, J., Lin, P.-C., and Bastani, H.</div>
   </li>
   <li>
     <span class="paper-title-line paper-title-plain">Trust in AI for Resource Allocation Using Housing Images</span>

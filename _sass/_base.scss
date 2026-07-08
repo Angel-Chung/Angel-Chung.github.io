@@ -195,6 +195,22 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
 
+  &.about-profile {
+    max-width: 22rem;
+
+    .profile-image-square {
+      aspect-ratio: 1 / 1;
+      overflow: hidden;
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center;
+      }
+    }
+  }
+
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
@@ -219,6 +235,10 @@ ul.task-list input[type="checkbox"] {
   .profile {
     width: 30%;
 
+    &.about-profile {
+      width: 36%;
+    }
+
     .address {
       p {
         display: block;
@@ -237,6 +257,53 @@ ul.task-list input[type="checkbox"] {
     &:hover {
       color: var(--global-theme-color);
       text-decoration: none;
+    }
+  }
+}
+
+.job-market-note {
+  margin-bottom: 2rem;
+}
+
+.upcoming-presentation {
+  margin-bottom: 1.25rem;
+  padding-left: 1rem;
+  border-left: 3px solid var(--global-theme-color);
+
+  .upcoming-presentation-label {
+    margin-bottom: 0.25rem;
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0;
+  }
+
+  p {
+    margin-bottom: 0.2rem;
+  }
+}
+
+// News and talks
+
+.news {
+  .news-date {
+    width: 20%;
+    padding-right: 1.25rem;
+    color: var(--global-text-color-light);
+    font-size: 0.95rem;
+    font-weight: 500;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  .news-scrollable {
+    max-height: 18rem;
+    overflow-y: auto;
+    padding-right: 0.25rem;
+    scrollbar-gutter: stable;
+
+    table {
+      margin-bottom: 0;
     }
   }
 }

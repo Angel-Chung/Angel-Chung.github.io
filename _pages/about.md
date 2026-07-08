@@ -15,6 +15,14 @@ profile:
     
   
 news: true
+upcoming_presentation:
+  label: Upcoming Presentation
+  event: MSOM Conference
+  date: Tuesday, July 14
+  session: "Session TB8"
+  room: Hawes 201
+  time: 10:30 AM
+  title: Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning
 #talks: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,4 +34,6 @@ My research focuses on designing AI for better human decision-making and public 
 
 I have been fortunate to collaborate with schools, hospitals, and governments across the globe to develop and improve these systems through field experiments and deployments. I am passionate about working with practitioners and policymakers to transform socially impactful research into real-world solutions.
 
-My work has been published in *Nature* and recognized with multiple [awards]({{ '/awards/' | relative_url }}). Check out my research [here]({{ '/publications/' | relative_url }}).
+My work has been published in ***Nature*** and recognized with multiple [awards]({{ '/awards/' | relative_url }}). Check out my research [here]({{ '/publications/' | relative_url }}).
+
+<p class="job-market-note"><strong><em>I am on the 2026-27 job market.</em></strong></p>

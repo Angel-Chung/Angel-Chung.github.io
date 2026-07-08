@@ -26,9 +26,11 @@ layout: default
 
   <article>
     {% if page.profile %}
-      <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      <div class="profile about-profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
         {% if page.profile.image %}
-          <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}" alt="profile picture" id="profile-image" onclick="switchImage()">
+          <div class="profile-image-square z-depth-1 rounded">
+            <img class="img-fluid" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}" alt="profile picture" id="profile-image" onclick="switchImage()">
+          </div>
         {% endif %}
         {% if page.profile.more_info %}
           <div class="more-info">
@@ -55,7 +57,15 @@ layout: default
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">Talks</a>
       </h2>
-      {% include news.liquid limit=false %}
+      {% if page.upcoming_presentation %}
+        <div class="upcoming-presentation">
+          <div class="upcoming-presentation-label">{{ page.upcoming_presentation.label | default: 'Upcoming Presentation' }}</div>
+          <p><strong>{{ page.upcoming_presentation.event }}: {{ page.upcoming_presentation.date }} 🕥 {{ page.upcoming_presentation.time }}</strong></p>
+          <p>{{ page.upcoming_presentation.session }} | Room: {{ page.upcoming_presentation.room }}</p>
+          <p>Title: {{ page.upcoming_presentation.title }}</p>
+        </div>
+      {% endif %}
+      {% include news.liquid limit=true %}
     {% endif %}
 
     
