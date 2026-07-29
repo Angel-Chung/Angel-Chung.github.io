@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-MSOM (Scheduled) @Harvard Business School
+MSOM @Harvard Business School

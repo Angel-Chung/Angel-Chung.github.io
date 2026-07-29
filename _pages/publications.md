@@ -428,6 +428,7 @@ h2 {
   <li>
     <span class="paper-title-line paper-title-plain">The Impact of Human-AI Collaboration in Outpatient Care: Evidence from Somaliland</span>
     <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Qin, J., Lin, P.-C., and Bastani, H.</div>
+    <div class="paper-venue"><i>Draft available on request.</i></div>
   </li>
 </ul>
 

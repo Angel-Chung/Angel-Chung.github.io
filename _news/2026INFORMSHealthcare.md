@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-INFORMS Healthcare (Scheduled) @Raleigh, NC
+INFORMS Healthcare @Raleigh, NC
