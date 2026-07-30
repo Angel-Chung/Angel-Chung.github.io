@@ -60,7 +60,7 @@ layout: default
       {% if page.upcoming_presentation %}
         <div class="upcoming-presentation">
           <div class="upcoming-presentation-label">{{ page.upcoming_presentation.label | default: 'Upcoming Presentation' }}</div>
-          <p><strong>{{ page.upcoming_presentation.event }}: {{ page.upcoming_presentation.date }} 🕥 {{ page.upcoming_presentation.time }}</strong></p>
+          <p><strong>{{ page.upcoming_presentation.event }}: {{ page.upcoming_presentation.date }} 🕗 {{ page.upcoming_presentation.time }}</strong></p>
           <p>{% if page.upcoming_presentation.session %}{{ page.upcoming_presentation.session }} | {% endif %}Room: {{ page.upcoming_presentation.room }}</p>
           <p>Title: {{ page.upcoming_presentation.title }}</p>
         </div>
