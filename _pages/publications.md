@@ -54,6 +54,10 @@ h2 {
   font-weight: 500;
 }
 
+.author-order-note {
+  font-size: 0.82em;
+}
+
 .paper-venue {
   color: color-mix(in srgb, var(--global-text-color) 82%, var(--global-bg-color));
   font-size: 0.91rem;
@@ -421,14 +425,25 @@ h2 {
     </div>
   </li>
   <li>
-    <span class="paper-title-line paper-title-plain">Grand Challenges for Operations Management: UN Sustainable Development Goal 3</span>
-    <div class="paper-authors">Bastani, H., <strong>Chung, A. T.-H.</strong>, Joen, H., Yadav, P.</div>
-    <div class="paper-venue"><i>Minor Revision, Manufacturing and Service Operations Management.</i></div>
-  </li>
-  <li>
     <span class="paper-title-line paper-title-plain">The Impact of Human-AI Collaboration in Outpatient Care: Evidence from Somaliland</span>
     <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Qin, J., Lin, P.-C., and Bastani, H.</div>
     <div class="paper-venue"><i>Draft available on request.</i></div>
+    <details class="paper-abstract">
+      <summary>Abstract</summary>
+      <div class="paper-abstract-panel">
+        <p>Healthcare documentation is one of the major operational burdens in resource-constrained health systems, often competing directly with patient care. This paper evaluates a human-AI collaborative documentation tool implemented at the largest public hospital in Somaliland. Physicians enter a clinical note draft, from which AI generates a polished clinical note that physicians may directly submit, edit then submit, or abandon AI note and submit their own draft. Exploiting the staggered rollout of this tool across hospital departments, we estimate intent-to-treat (ITT) effects using a Callaway and Sant’Anna (2021) difference-in-differences design. Our results show that AI significantly reduces service time by 34% and reduces service time dispersions across encounters. These findings suggest that AI has the potential to increase effective service capacity and standardize care delivery. We find no evidence that these gains come at the expense of clinical care quality. In particular, provider surveys indicate greater patient interaction and clinical note quality improves substantially. However, AI-enabled faster service do not necessarily improve patient access and downstream operational benefits, for example, patient waiting time does not decrease significantly. We show that this is because physicians strategically respond to the reduced service time by shortening total working time and by starting clinical day later. Furthermore, we find significant improvement on physicians’ independently written notes (without AI) post-treatment, suggesting that improvement does not necessarily require adoption; exposure to AI (but without adoption) can be of great value as well.</p>
+      </div>
+    </details>
+  </li>
+  <li>
+    <span class="paper-title-line paper-title-plain">Grand Challenges for Operations Management: UN Sustainable Development Goal 3</span>
+    <div class="paper-authors">Bastani, H., <strong>Chung, A. T.-H.</strong>, Joen, H., Yadav, P. <span class="author-order-note">(alphabetical)</span></div>
+    <div class="paper-venue"><i>Minor Revision, Manufacturing &amp; Service Operations Management.</i></div>
+  </li>
+  <li>
+    <span class="paper-title-line paper-title-plain">Incentive-Compatible Human-AI Collaboration via Adversarial Tasks</span>
+    <div class="paper-authors">Bastani, H., Bastani, O., and <strong>Chung, A. T.-H.</strong> <span class="author-order-note">(alphabetical)</span></div>
+    <div class="paper-venue"><i>Draft under preparation.</i></div>
   </li>
 </ul>
 
@@ -491,8 +506,8 @@ h2 {
 <h2 class="section-space">Work In Progress</h2>
 <ul class="research-list">
   <li>
-    <span class="paper-title-line paper-title-plain">Incentive-Compatible Human-AI Collaboration via Adversarial Tasks</span>
-    <div class="paper-authors">with Bastani, H. and Bastani, O.</div>
+    <span class="paper-title-line paper-title-plain">Human–AI Agentic Networks for Community Health in Somaliland</span>
+    <div class="paper-authors">with Bastani, H. and Lin, P.-C.</div>
   </li>
   <li>
     <span class="paper-title-line paper-title-plain">Trust in AI for Resource Allocation Using Housing Images</span>

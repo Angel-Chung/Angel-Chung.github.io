@@ -39,20 +39,38 @@ nav_order: 8
   }
 
   .course-title {
-    margin-bottom: 0.2em;
+    margin: 0 0 0.2em;
+  }
+  .course-list {
+    margin: 0 0 1.2em;
+    padding-left: 1.35em;
+  }
+  .course-list > li {
+    padding-left: 0.15em;
+  }
+  .department-title {
+    margin: 1.35em 0 0.5em;
+    font-size: 0.9em;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+    color: var(--global-text-color);
+    opacity: 0.75;
   }
   .course-title a {
     color: var(--global-theme-color);
-    text-decoration: underline;
+    text-decoration: none;
   }
   .course-title a:hover {
     color: var(--global-hover-color);
+    text-decoration: underline;
   }
   .course-details {
     margin-top: 0;
-    margin-bottom: 1em;
-    margin-left: 1em;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-left: 1.2em;
     color: var(--global-text-color);
+    font-size: 0.93em;
   }
   .course-details a {
     color: var(--global-theme-color);
@@ -67,36 +85,60 @@ nav_order: 8
 
 <h4 id="university-heading">University of Pennsylvania</h4>
 
-<p class="course-title"><a href="https://oid.wharton.upenn.edu/programs/undergraduate/course-descriptions/">OIDD (MBA) Online Business Models and the Information-Based Firm</a></p>
-<ul class="course-details">
-  <li>TA for Professor Daniel Rock, Spring 2026</li>
+<p class="department-title">BEPP - Business Economics and Public Policy</p>
+<ul class="course-list">
+  <li>
+    <p class="course-title"><a href="https://catalog.upenn.edu/courses/bepp/">BEPP (undergrad) Applied Data Analysis</a></p>
+    <ul class="course-details">
+      <li>TA for Professor Yisroel Cahn, Fall 2026</li>
+    </ul>
+  </li>
 </ul>
 
-<p class="course-title"><a href="https://oid.wharton.upenn.edu/programs/undergraduate/course-descriptions/">OIDD (undergrad) Introduction To OID</a></p>
-<ul class="course-details">
-  <li>TA for Professor Gérard Cachon & Sergei Savin, Fall 2025</li>
-  <li>TA for Professor Gérard Cachon & Alp Sungu, Fall 2024</li>
+<p class="department-title">OIDD - Operations, Information, and Decisions Department</p>
+<ul class="course-list">
+  <li>
+    <p class="course-title"><a href="https://oid.wharton.upenn.edu/programs/undergraduate/course-descriptions/">OIDD (MBA) Online Business Models and the Information-Based Firm</a></p>
+    <ul class="course-details">
+      <li>TA for Professor Daniel Rock, Spring 2026</li>
+    </ul>
+  </li>
+  <li>
+    <p class="course-title"><a href="https://oid.wharton.upenn.edu/programs/undergraduate/course-descriptions/">OIDD (undergrad) Introduction To OID</a></p>
+    <ul class="course-details">
+      <li>TA for Professor Gérard Cachon & Sergei Savin, Fall 2025</li>
+      <li>TA for Professor Gérard Cachon & Alp Sungu, Fall 2024</li>
+    </ul>
+  </li>
+  <li>
+    <p class="course-title"><a href="https://oid.wharton.upenn.edu/programs/undergraduate/course-descriptions/">OIDD (undergrad) Intro To Management Science</a></p>
+    <ul class="course-details">
+      <li>TA for Professor Hamsa Bastani, Spring 2024</li>
+    </ul>
+  </li>
 </ul>
 
-<p class="course-title"><a href="https://oid.wharton.upenn.edu/programs/undergraduate/course-descriptions/">OIDD (undergrad) Intro To Management Science</a></p>
-<ul class="course-details">
-  <li>TA for Professor Hamsa Bastani, Spring 2024</li>
-</ul>
-
-<p class="course-title"><a href="https://catalog.upenn.edu/courses/educ/">EDUC (grad-level) Economics of Education in Developing Countries</a></p>
-<ul class="course-details">
-  <li>TA for Professor Amrit Thapa, Spring 2021</li>
-</ul>
-
-<p class="course-title"><a href="https://catalog.upenn.edu/courses/educ/">EDUC (grad-level) Advanced Topics in Monitoring & Evaluation in IED</a></p>
-<ul class="course-details">
-  <li>TA for Professor Amrit Thapa, Spring 2021</li>
-</ul>
-
-<p class="course-title"><a href="https://catalog.upenn.edu/courses/educ/">EDUC (grad-level) Principles of Monitoring & Evaluation in International Education Development</a></p>
-<ul class="course-details">
-  <li>Lab Instructor & TA for Professor Amrit Thapa, Fall 2020</li>
-  <li>Received <a href="https://provost.upenn.edu/for-students/teaching-at-penn/teaching-awards/">2021 Penn Prize for Excellence in Graduate Teaching Award</a></li>
+<p class="department-title">EDUC - Graduate School of Education</p>
+<ul class="course-list">
+  <li>
+    <p class="course-title"><a href="https://catalog.upenn.edu/courses/educ/">EDUC (grad-level) Economics of Education in Developing Countries</a></p>
+    <ul class="course-details">
+      <li>TA for Professor Amrit Thapa, Spring 2021</li>
+    </ul>
+  </li>
+  <li>
+    <p class="course-title"><a href="https://catalog.upenn.edu/courses/educ/">EDUC (grad-level) Advanced Topics in Monitoring & Evaluation in IED</a></p>
+    <ul class="course-details">
+      <li>TA for Professor Amrit Thapa, Spring 2021</li>
+    </ul>
+  </li>
+  <li>
+    <p class="course-title"><a href="https://catalog.upenn.edu/courses/educ/">EDUC (grad-level) Principles of Monitoring & Evaluation in International Education Development</a></p>
+    <ul class="course-details">
+      <li>Lab Instructor & TA for Professor Amrit Thapa, Fall 2020</li>
+      <li>Received <a href="https://provost.upenn.edu/for-students/teaching-at-penn/teaching-awards/">2021 Penn Prize for Excellence in Graduate Teaching Award</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h4>Mentorship</h4>
