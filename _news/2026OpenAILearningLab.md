@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-OpenAI Learning Lab @San Francisco, CA
+OpenAI Learning Lab (Scheduled) @San Francisco, CA
