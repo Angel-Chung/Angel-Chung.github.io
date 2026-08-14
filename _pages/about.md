@@ -33,6 +33,6 @@ My research focuses on designing AI for better human decision-making and public 
 
 I have been fortunate to collaborate with schools, hospitals, and governments across the globe to develop and improve these systems through field experiments and deployments. I am passionate about working with practitioners and policymakers to transform socially impactful research into real-world solutions.
 
-My work has been published in ***Nature*** and recognized with multiple [awards]({{ '/awards/' | relative_url }}). Check out my research [here]({{ '/publications/' | relative_url }}).
+My work has been published in ***Nature*** and recognized with multiple <a href="{{ '/awards/' | relative_url }}" style="text-decoration: underline;">awards</a>. Check out my <a href="{{ '/publications/' | relative_url }}" style="text-decoration: underline;">research</a> and <a href="{{ '/cv/' | relative_url }}" style="text-decoration: underline;">CV</a>.
 
 <p class="job-market-note"><strong><em>I am on the 2026–27 academic job market.</em></strong></p>

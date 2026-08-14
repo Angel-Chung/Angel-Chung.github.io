@@ -471,7 +471,7 @@ h2 {
 <ul class="research-list">
   <li>
     <span class="paper-title-line"><a href="https://doi.org/10.1007/978-3-031-60867-4_12" class="paper-title">Optimizing Health Supply Chains in LMICs with Machine Learning: A Case Study in Sierra Leone</a></span>
-    <div class="paper-authors">Bastani, H., Bastani, O., & <strong>Chung, A. T.-H.</strong>. (2024).</div>
+    <div class="paper-authors">Bastani, H., Bastani, O., and <strong>Chung, A. T.-H.</strong> <span class="author-order-note">(alphabetical)</span> (2024).</div>
     <div class="paper-venue">In C. S. Tang (Ed.), <i>Responsible and Sustainable Operations: The New Frontier</i> (pp. 187-202). Springer Nature Switzerland.</div>
     <div class="paper-actions" aria-label="Paper links">
       <a class="paper-button" href="https://doi.org/10.1007/978-3-031-60867-4_12" target="_blank" rel="noopener">Full Chapter</a>
