@@ -369,10 +369,11 @@ h2 {
   <li>
     <span class="paper-title-line"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6423358" class="paper-title">Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning</a></span>
     <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Zhang, B., Kung, L.-C., Bastani*, H., and Bastani*, O.</div>
-    <div class="paper-venue"><i>Available at SSRN.</i></div>
+    <div class="paper-venue"><i>Available at SSRN and arXiv.</i></div>
     <small class="paper-note">*denote equal last author</small>
     <div class="paper-actions" aria-label="Paper links">
       <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6423358" target="_blank" rel="noopener">SSRN</a>
+      <a class="paper-button" href="https://arxiv.org/abs/2608.16907" target="_blank" rel="noopener">arXiv</a>
       <details class="paper-news">
         <summary>Media Coverage</summary>
         <div class="paper-news-panel">
@@ -438,7 +439,7 @@ h2 {
   <li>
     <span class="paper-title-line paper-title-plain">Grand Challenges for Operations Management: UN Sustainable Development Goal 3</span>
     <div class="paper-authors">Bastani, H., <strong>Chung, A. T.-H.</strong>, Joen, H., Yadav, P. <span class="author-order-note">(alphabetical)</span></div>
-    <div class="paper-venue"><i>Minor Revision, Manufacturing &amp; Service Operations Management.</i></div>
+    <div class="paper-venue"><i>Minor Revision, <strong>Manufacturing &amp; Service Operations Management</strong>.</i></div>
   </li>
   <li>
     <span class="paper-title-line paper-title-plain">Incentive-Compatible Human-AI Collaboration via Adversarial Tasks</span>
