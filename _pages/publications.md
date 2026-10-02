@@ -426,7 +426,7 @@ h2 {
     </div>
   </li>
   <li>
-    <span class="paper-title-line paper-title-plain">The Impact of Human-AI Collaboration in Outpatient Care: Evidence from Somaliland</span>
+    <span class="paper-title-line paper-title-plain">When Productive AI Is Not Enough: Evidence from Outpatient Care</span>
     <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Qin, J., Lin, P.-C., and Bastani, H.</div>
     <div class="paper-venue"><i>Draft available on request.</i></div>
     <details class="paper-abstract">
@@ -442,7 +442,7 @@ h2 {
     <div class="paper-venue"><i>Minor Revision, <strong>Manufacturing &amp; Service Operations Management</strong>.</i></div>
   </li>
   <li>
-    <span class="paper-title-line paper-title-plain">Incentive-Compatible Human-AI Collaboration via Adversarial Tasks</span>
+    <span class="paper-title-line paper-title-plain">Learning to Direct AI</span>
     <div class="paper-authors">Bastani, H., Bastani, O., and <strong>Chung, A. T.-H.</strong> <span class="author-order-note">(alphabetical)</span></div>
     <div class="paper-venue"><i>Draft under preparation.</i></div>
   </li>
