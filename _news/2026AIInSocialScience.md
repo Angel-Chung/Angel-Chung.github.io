@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-AI in Social Science (Scheduled) @UChicago
+AI in Social Science @UChicago

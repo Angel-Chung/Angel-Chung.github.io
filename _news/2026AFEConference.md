@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Advances with Field Experiments (AFE) Conference (Scheduled) @UChicago
+Advances with Field Experiments (AFE) Conference @UChicago

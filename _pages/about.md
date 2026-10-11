@@ -15,13 +15,20 @@ profile:
     
   
 news: true
-# upcoming_presentation:
-#   label: Upcoming Presentation
-#   event: INFORMS Healthcare
-#   date: Thursday, July 30
-#   room: 301A
-#   time: 8:00 AM
-#   title: Improving Access to Essential Medicines via Decision-Aware Machine Learning
+upcoming_presentation:
+  label: Upcoming Presentations
+  event: INFORMS 2026 Annual Meeting
+  location: San Francisco, CA
+  date: Sunday, November 1, 2026
+  sessions:
+    - time: 4:15–5:30 PM
+      title: Effective Personalized AI Tutor via LLM-Guided Reinforcement Learning
+      session: Session SE13
+      room: Moscone South-151 (Upper Mezz)
+    - time: 11:00 AM–12:15 PM
+      title: Improving Access to Essential Medicines via Decision-Aware Machine Learning
+      session: MIF Paper Competition
+      room: Marriott Marquis-Sierra D (5th Floor)
 #talks: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

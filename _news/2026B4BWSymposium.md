@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Business for a Better World Research Symposium (Scheduled) @Colorado State University
+Business for a Better World Research Symposium @Colorado State University

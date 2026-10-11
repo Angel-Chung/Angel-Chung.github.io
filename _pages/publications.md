@@ -426,15 +426,18 @@ h2 {
     </div>
   </li>
   <li>
-    <span class="paper-title-line paper-title-plain">When Productive AI Is Not Enough: Evidence from Outpatient Care</span>
+    <span class="paper-title-line"><a href="https://www.dropbox.com/scl/fi/cljh9wno19o0dl0gyscjj/SomalilandAI_Paper.pdf?rlkey=g27djphnupf4d55a63d4zl88a&amp;st=kuzndrr8&amp;dl=0" class="paper-title">When Productive AI Is Not Enough: Evidence from Outpatient Care</a></span>
     <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Qin, J., Lin, P.-C., and Bastani, H.</div>
-    <div class="paper-venue"><i>Draft available on request.</i></div>
-    <details class="paper-abstract">
-      <summary>Abstract</summary>
-      <div class="paper-abstract-panel">
-        <p>Healthcare documentation is one of the major operational burdens in resource-constrained health systems, often competing directly with patient care. This paper evaluates a human-AI collaborative documentation tool implemented at the largest public hospital in Somaliland. Physicians enter a clinical note draft, from which AI generates a polished clinical note that physicians may directly submit, edit then submit, or abandon AI note and submit their own draft. Exploiting the staggered rollout of this tool across hospital departments, we estimate intent-to-treat (ITT) effects using a Callaway and Sant’Anna (2021) difference-in-differences design. Our results show that AI significantly reduces service time by 34% and reduces service time dispersions across encounters. These findings suggest that AI has the potential to increase effective service capacity and standardize care delivery. We find no evidence that these gains come at the expense of clinical care quality. In particular, provider surveys indicate greater patient interaction and clinical note quality improves substantially. However, AI-enabled faster service do not necessarily improve patient access and downstream operational benefits, for example, patient waiting time does not decrease significantly. We show that this is because physicians strategically respond to the reduced service time by shortening total working time and by starting clinical day later. Furthermore, we find significant improvement on physicians’ independently written notes (without AI) post-treatment, suggesting that improvement does not necessarily require adoption; exposure to AI (but without adoption) can be of great value as well.</p>
-      </div>
-    </details>
+    <div class="paper-venue"><i>Available at SSRN. Submitted, Management Science.</i></div>
+    <div class="paper-actions" aria-label="Paper links">
+      <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7594540" target="_blank" rel="noopener">SSRN</a>
+      <details class="paper-abstract">
+        <summary>Abstract</summary>
+        <div class="paper-abstract-panel">
+          <p>Investments in AI can improve worker productivity and output quality, but whether those gains reach the people organizations serve is less clear. In collaboration with the Somaliland Ministry of Health and an international development organization, we study the staggered rollout of a human–AI collaborative documentation system at Somaliland's largest public hospital. The physician-initiated, text-based design of this AI tool addresses local language constraints without relying on recorded conversations. Combining detailed patient visit records, clinical notes, and physician surveys, we estimate intent-to-treat (ITT) effects using a Callaway and Sant’Anna (2021) difference-in-differences design. Our results show that AI availability substantially reduces service time and improves documentation quality. Despite concerns about adoption, we observe that even non-adopting physicians' human-written notes improve after AI exposure, consistent with learning benefits from using AI as a reference. Yet we find no corresponding overall improvement in patient waiting time or throughput. Departmental comparisons and queueing simulations highlight how persistent gaps in scheduling, patient flow management, and clinical availability can prevent faster service from improving access. This gap is especially consequential in developing economies, where hospitals may adopt advanced AI tools while still lacking basic practices such as appointment scheduling and patient flow management. Our findings suggest that health systems and development agencies seeking to expand access to care should complement AI deployment with improvements in basic operations and incentives.</p>
+        </div>
+      </details>
+    </div>
   </li>
   <li>
     <span class="paper-title-line paper-title-plain">Grand Challenges for Operations Management: UN Sustainable Development Goal 3</span>
@@ -508,14 +511,14 @@ h2 {
 <ul class="research-list">
   <li>
     <span class="paper-title-line paper-title-plain">Human–AI Agentic Networks for Community Health in Somaliland</span>
-    <div class="paper-authors">with Bastani, H. and Lin, P.-C.</div>
+    <div class="paper-authors">with Bastani, H. and Lin, P.-C. (IRB approved; Field experiment in preparation)</div>
   </li>
   <li>
     <span class="paper-title-line paper-title-plain">Trust in AI for Resource Allocation Using Housing Images</span>
-    <div class="paper-authors">with Harari, M. and Wong, M.</div>
+    <div class="paper-authors">with Harari, M. and Wong, M. (Data analysis in progress)</div>
   </li>
   <li>
     <span class="paper-title-line paper-title-plain">AI for Poverty Targeting</span>
-    <div class="paper-authors">with Harari, M. and Wong, M.</div>
+    <div class="paper-authors">with Harari, M. and Wong, M. (Lab experiment completed)</div>
   </li>
 </ul>
