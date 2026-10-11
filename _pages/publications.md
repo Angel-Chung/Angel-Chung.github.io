@@ -426,7 +426,7 @@ h2 {
     </div>
   </li>
   <li>
-    <span class="paper-title-line"><a href="https://www.dropbox.com/scl/fi/cljh9wno19o0dl0gyscjj/SomalilandAI_Paper.pdf?rlkey=g27djphnupf4d55a63d4zl88a&amp;st=kuzndrr8&amp;dl=0" class="paper-title">When Productive AI Is Not Enough: Evidence from Outpatient Care</a></span>
+    <span class="paper-title-line"><a href="https://www.dropbox.com/scl/fi/cljh9wno19o0dl0gyscjj/SomalilandAI_Paper.pdf?rlkey=g27djphnupf4d55a63d4zl88a&amp;st=kuzndrr8&amp;dl=0" class="paper-title" target="_blank" rel="noopener">When Productive AI Is Not Enough: Evidence from Outpatient Care</a></span>
     <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Qin, J., Lin, P.-C., and Bastani, H.</div>
     <div class="paper-venue"><i>Available at SSRN. Submitted, Management Science.</i></div>
     <div class="paper-actions" aria-label="Paper links">
