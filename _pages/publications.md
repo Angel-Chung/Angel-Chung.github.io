@@ -320,7 +320,7 @@ h2 {
 
 <ul class="research-list">
   <li>
-    <span class="paper-title-line"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880140" class="paper-title">Improving Access to Essential Medicines via Decision-Aware Machine Learning</a></span>
+    <span class="paper-title-line"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4880140" class="paper-title" target="_blank" rel="noopener">Improving Access to Essential Medicines via Decision-Aware Machine Learning</a></span>
     <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Abdulai, J., Bayoh, P., Sandi, L., Smart, F., Bastani*, H., Bastani*, O. (2026).</div>
     <div class="paper-venue"><i><strong>Nature</strong> 653, 1178–1183 (research article)</i>.</div>
     <small class="paper-note">*denote equal last author</small>
@@ -367,7 +367,7 @@ h2 {
 <h2>Working Papers</h2>
 <ul class="research-list">
   <li>
-    <span class="paper-title-line"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6423358" class="paper-title">Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning</a></span>
+    <span class="paper-title-line"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6423358" class="paper-title" target="_blank" rel="noopener">Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning</a></span>
     <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Zhang, B., Kung, L.-C., Bastani*, H., and Bastani*, O.</div>
     <div class="paper-venue"><i>Available at SSRN and arXiv.</i></div>
     <small class="paper-note">*denote equal last author</small>
@@ -454,7 +454,7 @@ h2 {
 <h2 class="section-space">Refereed Conference Papers</h2>
 <ul class="research-list">
   <li>
-    <span class="paper-title-line"><a href="https://arxiv.org/abs/2211.08507" class="paper-title">Decision-Aware Learning for Optimizing Health Supply Chains</a></span>
+    <span class="paper-title-line"><a href="https://arxiv.org/abs/2211.08507" class="paper-title" target="_blank" rel="noopener">Decision-Aware Learning for Optimizing Health Supply Chains</a></span>
     <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Rostami, V., Bastani, H., & Bastani, O. (2022).</div>
     <div class="paper-venue"><i>Machine Learning for Health (ML4H)</i>.</div>
     <div class="paper-actions" aria-label="Paper links">
@@ -474,7 +474,7 @@ h2 {
 
 <ul class="research-list">
   <li>
-    <span class="paper-title-line"><a href="https://doi.org/10.1007/978-3-031-60867-4_12" class="paper-title">Optimizing Health Supply Chains in LMICs with Machine Learning: A Case Study in Sierra Leone</a></span>
+    <span class="paper-title-line"><a href="https://doi.org/10.1007/978-3-031-60867-4_12" class="paper-title" target="_blank" rel="noopener">Optimizing Health Supply Chains in LMICs with Machine Learning: A Case Study in Sierra Leone</a></span>
     <div class="paper-authors">Bastani, H., Bastani, O., and <strong>Chung, A. T.-H.</strong> <span class="author-order-note">(alphabetical)</span> (2024).</div>
     <div class="paper-venue">In C. S. Tang (Ed.), <i>Responsible and Sustainable Operations: The New Frontier</i> (pp. 187-202). Springer Nature Switzerland.</div>
     <div class="paper-actions" aria-label="Paper links">
@@ -492,7 +492,7 @@ h2 {
 <h2 class="section-space">Invited Paper</h2>
 <ul class="research-list">
   <li>
-    <span class="paper-title-line"><a href="https://www.icdf.org.tw/wSite/ct?xItem=73588&ctNode=31211&mp=1" class="paper-title">Application of AI in Healthcare Management in Developing Countries</a> <span>(in Chinese)</span></span>
+    <span class="paper-title-line"><a href="https://www.icdf.org.tw/wSite/ct?xItem=73588&ctNode=31211&mp=1" class="paper-title" target="_blank" rel="noopener">Application of AI in Healthcare Management in Developing Countries</a> <span>(in Chinese)</span></span>
     <div class="paper-authors"><strong>Chung, A. T.-H.</strong>. (2025).</div>
     <div class="paper-venue"><i>Development Focus Quarterly, Issue 20</i>.</div>
     <div class="paper-actions" aria-label="Paper links">
@@ -514,11 +514,11 @@ h2 {
     <div class="paper-authors">with Bastani, H. and Lin, P.-C. (IRB approved; Field experiment in preparation)</div>
   </li>
   <li>
-    <span class="paper-title-line paper-title-plain">Trust in AI for Resource Allocation Using Housing Images</span>
+    <span class="paper-title-line paper-title-plain">AI for Poverty Targeting</span>
     <div class="paper-authors">with Harari, M. and Wong, M. (Data analysis in progress)</div>
   </li>
   <li>
-    <span class="paper-title-line paper-title-plain">AI for Poverty Targeting</span>
+    <span class="paper-title-line paper-title-plain">Trust in AI for Resource Allocation Using Housing Images</span>
     <div class="paper-authors">with Harari, M. and Wong, M. (Lab experiment completed)</div>
   </li>
 </ul>
