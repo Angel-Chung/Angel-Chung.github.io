@@ -6,3 +6,6 @@ related_posts: false
 ---
 
 INFORMS Annual Meeting (Scheduled) @San Francisco, CA
+
+- Operations for Good: Job Market Candidates Tackling Global Challenges
+- MIF Paper Competition
