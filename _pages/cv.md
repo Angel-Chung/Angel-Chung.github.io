@@ -6,7 +6,7 @@ permalink: /cv/
 nav: true
 nav_order: 2
 description: My CV
-cv_pdf: AngelCV_1015.pdf  # Use a new filename for each revision to refresh embedded previews.
+cv_pdf: AngelCV_1017.pdf  # Use a new filename for each revision to refresh embedded previews.
 classes: wide           # ←← THIS lifts the 820-px limit
 ---
 <!-- centred pill button -->

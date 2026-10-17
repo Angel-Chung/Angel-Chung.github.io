@@ -369,7 +369,7 @@ h2 {
   <li>
     <span class="paper-title-line"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6423358" class="paper-title" target="_blank" rel="noopener">Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning</a></span>
     <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Zhang, B., Kung, L.-C., Bastani*, H., and Bastani*, O.</div>
-    <div class="paper-venue"><i>Available at SSRN and arXiv.</i></div>
+    <div class="paper-venue"><i>Available at SSRN and arXiv. Under review, Operations Research.</i></div>
     <small class="paper-note">*denote equal last author</small>
     <div class="paper-actions" aria-label="Paper links">
       <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6423358" target="_blank" rel="noopener">SSRN</a>
@@ -428,7 +428,7 @@ h2 {
   <li>
     <span class="paper-title-line"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7594540" class="paper-title" target="_blank" rel="noopener">When Productive AI Is Not Enough: Evidence from Outpatient Care</a></span>
     <div class="paper-authors"><strong>Chung, A. T.-H.</strong>, Qin, J., Lin, P.-C., and Bastani, H.</div>
-    <div class="paper-venue"><i>Available at SSRN. Submitted, Management Science.</i></div>
+    <div class="paper-venue"><i>Available at SSRN. Under review, Management Science.</i></div>
     <div class="paper-actions" aria-label="Paper links">
       <a class="paper-button" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7594540" target="_blank" rel="noopener">SSRN</a>
       <details class="paper-abstract">
